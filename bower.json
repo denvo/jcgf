@@ -1,0 +1,25 @@
+{
+  "name": "jcgf",
+  "main": "index.js",
+  "homepage": "https://github.com/denvo/jcgf",
+  "authors": [
+    "Denis Volkov <den@denvo.name>"
+  ],
+  "description": "JavaScript Console Game Framework",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "game",
+    "console",
+    "canvas"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
